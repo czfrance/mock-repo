@@ -1,5 +1,5 @@
-public class Crjfka {
+public class Cmmtud {
     public static void main() {
-        System.out.println("lovuq");
+        System.out.println("igqkv");
     }
 }
