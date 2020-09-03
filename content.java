@@ -1,5 +1,5 @@
-public class Cokucj {
+public class Cmywah {
     public static void main() {
-        System.out.println("lyoic");
+        System.out.println("asshb");
     }
 }
